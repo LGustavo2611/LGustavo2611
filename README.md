@@ -65,7 +65,6 @@ Meu nome é Luís Gustavo de Oliveira, Jedi recém chegado ao mundo da Programa�
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 </p>
----
 <br>
 <br>
 
