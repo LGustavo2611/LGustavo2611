@@ -105,10 +105,13 @@ Meu nome é Luís Gustavo de Oliveira, Jedi recém chegado ao mundo da Programa�
   [🌐 asbelezalatina.com.br](https://asbelezalatina.com.br)
 
 - 💰 **Conversor de Moedas:**  
-  [🔗 Acesse aqui](https://lgustavo2611.github.io/conversor-de-moedas/)
+  [🔗 Acesse aqui](https://money-convert-js.netlify.app/)
 
-- 📄 **Landing Page clone - DevClub:**  
-  [🔗 Acesse aqui](https://lgustavo2611.github.io/devclub-landing-page/)
+- 📊 **Calculadora de IMC:**  
+  [🔗 Acesse aqui](https://calc-imc-dev.netlify.app/)
+
+- 🛒 **Ecommerce Page - TechStore:**  
+  [🔗 Acesse aqui](https://ecommerce-lg.netlify.app/)
 
 ---
 
@@ -124,7 +127,7 @@ Meu nome é Luís Gustavo de Oliveira, Jedi recém chegado ao mundo da Programa�
 ## 🤝 Vamos nos conectar?
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lgustavodeoliveira/)
-- 📬 Email: gusterds@yahoo.com.br
+- 📬 Email: gustavodeoliveira.dev@gmail.com
 
 ---
 
