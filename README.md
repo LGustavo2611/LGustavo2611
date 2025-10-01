@@ -113,8 +113,9 @@ Meu nome é Luís Gustavo de Oliveira, Jedi recém chegado ao mundo da Programa�
 - 🛒 **Ecommerce Page - TechStore:**  
   [🔗 Acesse aqui](https://ecommerce-lg.netlify.app/)
 
-- 🔮 **Bola 8 Mágica:**
+- 🔮 **Bola 8 Mágica:**  
   [🔗 Acesse aqui](https://magic-8-ball-js.netlify.app/)
+
 
 ---
 
