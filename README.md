@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-Meu nome é Luís Gustavo de Oliveira, Jedi recém chegado ao mundo da Programação atuando no momento com foco em Desenvolvimento Front-End. Curioso e apaixonado por tecnologia desde os tempos do videogame, hoje estudo com dedicação e carinho para me tornar um desenvolvedor full stack.
+Meu nome é Luís Gustavo de Oliveira, Jedi do mundo da Programação atuando no momento com foco em Desenvolvimento Front-End. Curioso e apaixonado por tecnologia desde os tempos do videogame, hoje atuo como desenvolvedor freelancer e estudo com dedicação e carinho para me tornar um Jedi dev full stack cada vez melhor.
 
 ---
 
@@ -121,7 +121,7 @@ Meu nome é Luís Gustavo de Oliveira, Jedi recém chegado ao mundo da Programa�
 
 ## 📖 Sobre mim
 
-- 📰 Formação anterior em Jornalismo.
+- 📰 Formação: Dev Club em desenvolvimento full stack.
 - 🎯 Aprendizado diário com foco em projetos práticos.
 - 💡 Gosto de resolver problemas com lógica e criatividade.
 - ✨ Estilo Jedi Dev: sempre com código limpo, persistência e paixão por aprender!
