@@ -107,8 +107,8 @@ Meu nome é Luís Gustavo de Oliveira, Jedi do mundo da Programação atuando no
 - 💰 **Conversor de Moedas:**  
   [🔗 Acesse aqui](https://money-convert-js.netlify.app/)
 
-- 📊 **Calculadora de IMC:**  
-  [🔗 Acesse aqui](https://calc-imc-dev.netlify.app/)
+- ☕ **Landing Page Cafeteria - Mundo do Café:**  
+  [🔗 Acesse aqui](https://mundo-do-cafe.netlify.app/)
 
 - 🛒 **Ecommerce Page - TechStore:**  
   [🔗 Acesse aqui](https://ecommerce-lg.netlify.app/)
